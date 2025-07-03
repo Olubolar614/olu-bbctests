@@ -4,7 +4,7 @@ This project uses **Cucumber**, **RestAssured**, and **JUnit** for API test auto
 
 ## 📦 Prerequisites
 
-- Java Development Kit (JDK) 17  
+- Java Development Kit (JDK) 19  
 - Maven (latest version recommended)  
 
 You can verify your setup using:
